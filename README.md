@@ -2,10 +2,7 @@
 My name is Tuan Minh!
 ## 📫 How to reach me: 
 
-[![Linkedin](.png) LinkedIn]()
-[![GitHub](.png) GitHub]() 
-[![Youtube]() Youtube]()
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100054202214509) 
 
 ![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=only52hz&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
