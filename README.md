@@ -10,7 +10,7 @@ My name is Nguyễn Tuấn Minh! I am passionate about technology, programming, 
 
 
  <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=only52hz&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syuq&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=only52hz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
 
 
-<img src="https://raw.githubusercontent.com/Syuq/Syuq/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/only52hz/only52hz/output/github-contribution-grid-snake-dark.svg" />
