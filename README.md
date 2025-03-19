@@ -6,6 +6,6 @@ My name is Tuấn Minh! I am passionate about technology, programming, and conti
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054202214509) 
 
-![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=only52hz&show_icons=true&theme=gruvbox&hide=contribs,prs,issues)
+![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=only52hz&show_icons=true&theme=gruvbox&hide=contribs,prs)
 
 
