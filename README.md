@@ -13,9 +13,4 @@ My name is Nguyễn Tuấn Minh! I am passionate about technology, programming, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syuq&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
 
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
+<img src="https://raw.githubusercontent.com/Syuq/Syuq/output/github-contribution-grid-snake-dark.svg" />
