@@ -8,6 +8,3 @@ My name is Nguyễn Tuấn Minh! I am passionate about technology, programming, 
 
 ![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=only52hz&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-
- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=only52hz&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Syuq" align = "center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=only52hz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Syuq" align = "center"/></p>
