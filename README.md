@@ -9,5 +9,6 @@ My name is Tuấn Minh! I am passionate about technology, programming, and conti
 ![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=only52hz&show_icons=true&theme=gruvbox&hide=contribs,prs&border_color=00000000)
 
 
+(https://github-readme-stats.vercel.app/api/pin/?username=only52hz&repo=repo-name&theme=gruvbox)
 
 
