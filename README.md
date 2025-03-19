@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Nguyễn Tuấn Minh! I am passionate about technology, programming, and continuous learning. I enjoy exploring new ideas and building practical solutions to real-world problems.
+My name is Tuấn Minh! I am passionate about technology, programming, and continuous learning. I enjoy exploring new ideas and building practical solutions to real-world problems.
 
 
 ## 📫 How to reach me: 
@@ -8,3 +8,4 @@ My name is Nguyễn Tuấn Minh! I am passionate about technology, programming, 
 
 ![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=only52hz&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox&show_icons=true)
